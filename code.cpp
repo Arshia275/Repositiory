@@ -8,7 +8,7 @@ void traffic_Instructions()
 }
 int main()
 {
-    //Arshia Shahnawaz
+    
 	int choice;
 	do{
 	traffic_Instructions();
